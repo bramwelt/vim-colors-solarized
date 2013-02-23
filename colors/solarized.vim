@@ -1094,7 +1094,8 @@ autocmd ColorScheme * if g:colors_name != "solarized" | silent! aunmenu Solarize
 " License "{{{
 " ---------------------------------------------------------------------
 "
-" Copyright (c) 2011 Ethan Schoonover
+" Original Work Copyright (c) 2011 Ethan Schoonover
+" Modified Work Copyright (c) 2013 Trevor Bramwell
 "
 " Permission is hereby granted, free of charge, to any person obtaining a copy
 " of this software and associated documentation files (the "Software"), to deal
